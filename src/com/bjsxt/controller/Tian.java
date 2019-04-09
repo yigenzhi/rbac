@@ -9,7 +9,7 @@ package com.bjsxt.controller;
 public class Tian {
 
     public static void main(String[] args) {
-        System.out.println("魅力值+++");
+        System.out.println("魅力值");
     }
 
 }
